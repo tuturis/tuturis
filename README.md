@@ -2,13 +2,13 @@
 # Hi there, I'm Arturas 👋
 ## I'm a software developer
 
-<li style="list-style-type:none">
-    <ul><div>⚒ Currently building the backend for <a href="https://share.howareyoureally.org">howareyoureally.org</a> at <a href="https://scale3c.com"><img alt="tutris | Scale3C " style="padding:0 5px;vertical-align:middle;border-radius:15px" width="26px" src="https://avatars0.githubusercontent.com/u/46576313?s=400&u=d19597751084ba5a2ef4efbfa53460004dd960d3&v=4"/>Scale3C</a></ul>
-    <ul> 🌱Learning in progress<a href="https://www.coursera.org/learn/convolutional-neural-networks-tensorflow"><img alt="tutris | coursera" style="vertical-align:middle;border-radius:15px;padding:0 0 0 5px;"  width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/coursera.svg" /> Convolutional Neural Networks in TensorFlow</a></ul>
-    <ul> ⚽ Personal goal - Create and deploy profitable automated trading strategy 🤖 💰 (Looking for collaborating opportunities)</ul>
-    <ul>🧠Interests - sports 🥋🏋️‍♀️🏃‍♂️🚲, coding 👩‍💻, music 🎶, reading 📖, entrepreneurship 👨‍🎤</ul>
-    <ul>Based in 🇱🇹</ul>
-</li>
+<ul style="list-style-type:none">
+    <li><div>⚒ Currently building the backend for <a href="https://share.howareyoureally.org">howareyoureally.org</a> at <a href="https://scale3c.com"><img alt="tutris | Scale3C " style="padding:0 5px;vertical-align:middle;border-radius:15px" width="26px" src="https://avatars0.githubusercontent.com/u/46576313?s=400&u=d19597751084ba5a2ef4efbfa53460004dd960d3&v=4"/>Scale3C</a></li>
+    <li> 🌱Learning in progress<a href="https://www.coursera.org/learn/convolutional-neural-networks-tensorflow"><img alt="tutris | coursera" style="vertical-align:middle;border-radius:15px;padding:0 0 0 5px;"  width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/coursera.svg" /> Convolutional Neural Networks in TensorFlow</a></li>
+    <li> ⚽ Personal goal - Create and deploy profitable automated trading strategy 🤖 💰 (Looking for collaborating opportunities)</li>
+    <li>🧠Interests - sports 🥋🏋️‍♀️🏃‍♂️🚲, coding 👩‍💻, music 🎶, reading 📖, entrepreneurship 👨‍🎤</li>
+    <li>Based in 🇱🇹</li>
+</ul>
 
 ## Technologies and tools I work with (daily)
 
