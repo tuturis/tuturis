@@ -1,4 +1,5 @@
  
+[![Visits Badge](https://badges.pufler.dev/visits/tuturis/tuturis)](https://badges.pufler.dev)
 # Hi there, I'm Arturas 👋
 ## I'm a software developer
 
