@@ -11,19 +11,19 @@
 
 ## Technologies and tools I work with (most of the time)
 
-[<img align="left" alt="tutris | amazonaws " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />](amazonaws)
-[<img align="left" alt="tutris | " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/visualstudiocode.svg" />]()
-[<img align="left" alt="tutris | " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/git.svg" />]()
-[<img align="left" alt="tutris | " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg" />]()
-[<img align="left" alt="tutris | " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/typescript.svg" />]()
-[<img align="left" alt="tutris | " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/trello.svg" />]()
-[<img align="left" alt="tutris | " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/google.svg" />]()
-[<img align="left" alt="tutris | " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />]()
-[<img align="left" alt="tutris | " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gitlab.svg" />]()
-[<img align="left" alt="tutris | " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/postgresql.svg" />]()
-[<img align="left" alt="tutris | " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/html5.svg" />]()
-[<img align="left" alt="tutris | " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />]()
-[<img align="left" alt="tutris | " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/toggl.svg" />]()
+<img align="left" alt="tutris | amazonaws " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
+<img align="left" alt="tutris | visualstudiocode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/visualstudiocode.svg" />
+<img align="left" alt="tutris | git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/git.svg" />
+<img align="left" alt="tutris | node-dot-js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg" />
+<img align="left" alt="tutris | typescript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/typescript.svg" />
+<img align="left" alt="tutris | trello" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/trello.svg" />
+<img align="left" alt="tutris | google" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/google.svg" />
+<img align="left" alt="tutris | github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />
+<img align="left" alt="tutris | gitlab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gitlab.svg" />
+<img align="left" alt="tutris | postgresql" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/postgresql.svg" />
+<img align="left" alt="tutris | html5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/html5.svg" />
+<img align="left" alt="tutris | react" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
+<img align="left" alt="tutris | toggl" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/toggl.svg" />
 ---
 [hyar]: https://share.howareyoureally.org
 [coursera]: https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/]
