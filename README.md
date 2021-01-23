@@ -6,7 +6,7 @@
 
 <ul>
     <li style="list-style-type:none;">⚒ Currently building the backend for <a href="https://app.reneza.com">reneza.com</a> at <a href="https://reneza.com"><img alt="tutris | Reneza " style="padding:0 5px;vertical-align:middle;border-radius:15px" width="26px" src="https://instagram.fvno2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/116841758_337432930760571_4094413493966311572_n.jpg?_nc_ht=instagram.fvno2-1.fna.fbcdn.net&_nc_ohc=fQO0a1X5tUoAX8Xu_OC&tp=1&oh=968610eb80cdc51d06a6ac4b1c6dcde8&oe=60374A2B"/>Reneza</a></li>
-    <li style="list-style-type:none;"> 🌱 Learning in progress: /li>
+    <li style="list-style-type:none;"> 🌱 Learning in progress: </li>
     <li style="list-style-type:none;"> ⚽ Personal goal - Create and deploy profitable automated trading strategy 🤖 💰 </li>
     <li style="list-style-type:none;"> 🧠 Interests - sports 🥋🏋️‍♀️🏃‍♂️🚲, coding 👩‍💻, music 🎶, reading 📖, entrepreneurship 👨‍🎤</li>
     <li style="list-style-type:none;">Based in 🇱🇹</li>
@@ -31,10 +31,12 @@
 </br>
 
 <ul>
- <li>
-🏁 Tensorflow specialization series <a href="https://www.coursera.org/learn/convolutional-neural-networks-tensorflow"><img alt="tutris | coursera" style="vertical-align:middle;border-radius:15px;padding:0 0 0 5px;"  width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/coursera.svg" /> Convolutional Neural Networks in TensorFlow</a>
-🏁 Building backend for howareyoureally.org
-  </li>
+ <li style="list-style-type:none;>
+ 🏁 Tensorflow specialization series <a href="https://www.coursera.org/learn/convolutional-neural-networks-tensorflow"><img alt="tutris | coursera" style="vertical-align:middle;border-radius:15px;padding:0 0 0 5px;"  width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/coursera.svg" /> Convolutional Neural Networks in TensorFlow</a>
+</li>
+<li style="list-style-type:none;>
+ 🏁 Building backend for howareyoureally.org
+</li>
 
 </ul>
 [hyar]: https://share.howareyoureally.org
