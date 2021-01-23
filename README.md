@@ -33,7 +33,7 @@
 ## 🏁  Things that I finished 
 ### (Something are apsent ^^) 
 <ul> 
-   <li style="list-style-type:none;> 🏁 Tensorflow specialization series <a href="https://www.coursera.org/learn/convolutional-neural-networks-tensorflow"><img alt="tutris | coursera" style="vertical-align:middle;border-radius:15px;padding:0 0 0 5px;"  width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/coursera.svg" /> Convolutional Neural Networks in TensorFlow</a></li>
-  <li style="list-style-type:none;> 🏁 Building backend for share.howareyoureally.org </li>
+   <li> 🏁 Tensorflow specialization series <a href="https://www.coursera.org/learn/convolutional-neural-networks-tensorflow"><img alt="tutris | coursera" style="vertical-align:middle;border-radius:15px;padding:0 0 0 5px;"  width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/coursera.svg" /> Convolutional Neural Networks in TensorFlow</a></li>
+  <li> 🏁 Building backend for share.howareyoureally.org</li>
 </ul>
 
