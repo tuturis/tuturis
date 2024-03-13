@@ -5,7 +5,6 @@
 ## I'm a software developer
 
 <ul>
-    <li style="list-style-type:none;">⚒ Currently building the ultrasound igenge-hear solution for <a href="https://ligence.io">ligence-hear</a> at <a href="https://ligence.io"><img alt="tutris | ligence-heart " style="padding:0 5px;vertical-align:middle;border-radius:15px" width="26px" src="https://instagram.fvno2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/116841758_337432930760571_4094413493966311572_n.jpg?_nc_ht=instagram.fvno2-1.fna.fbcdn.net&_nc_ohc=fQO0a1X5tUoAX8Xu_OC&tp=1&oh=968610eb80cdc51d06a6ac4b1c6dcde8&oe=60374A2B"/>Ligence.io</a></li>
     <!-- <li style="list-style-type:none;"> 🌱 Learning in progress: </li> -->
     <li style="list-style-type:none;"> 🧠 Interests - sports 🥋🏋️‍♀️🏃‍♂️🚲, coding 👩‍💻, music 🎶, reading 📖, entrepreneurship 👨‍🎤</li>
     <li style="list-style-type:none;">Based in 🇱🇹</li>
