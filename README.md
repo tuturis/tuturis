@@ -6,7 +6,7 @@
 
 <ul>
     <!-- <li style="list-style-type:none;"> 🌱 Learning in progress: </li> -->
-    <li style="list-style-type:none;"> 🧠 Interests - sports 🥋🏋️‍♀️🏃‍♂️🚲, coding 👩‍💻, music 🎶, reading 📖, entrepreneurship 👨‍🎤</li>
+    <li style="list-style-type:none;"> 🧠 Interests - sports, coding 👩‍💻, music 🎶, reading 📖, entrepreneurship 👨‍🎤</li>
     <li style="list-style-type:none;">Based in 🇱🇹</li>
 </ul>
 
